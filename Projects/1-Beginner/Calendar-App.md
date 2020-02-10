@@ -14,9 +14,6 @@ Style your own calendar according to your requirement
 - [ ] User can create event
 - [ ] User can edit event
 - [ ] User can delete event
-
-## Bonus features
-
 - [ ] User can drag events between dates
 - [ ] User can set reminder for a event
 - [ ] Change theme (light/dark) (play with css), play with css 😄
