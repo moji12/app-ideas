@@ -70,9 +70,6 @@ open for responses will be accessed from the app's web page.
 -   [ ] Survey Coordinators and Survey Respondents can view survey results as
         in tabular format showing the number of responses for each of the possible
         selections to the questions.
-
-## Bonus features
-
 -   [ ] Survey Respondents can create a unique account in the app
 -   [ ] Survey Respondents can login to the app
 -   [ ] Survey Respondents cannot complete the same survey more than once
